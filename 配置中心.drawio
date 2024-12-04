@@ -342,6 +342,72 @@
         <mxCell id="JzZrAZqVVQvo1RFDfsGt-158" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="538.38" y="153" width="122.25" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-164" value="&lt;b&gt;产品关系&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-188.12" y="1000" width="1000" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-165" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b1dcf2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-163.13" y="1050" width="950" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-167" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="1070" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-169" value="基础系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-178.12" y="1500" width="950" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-170" value="配置中心内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-178.12" y="1240" width="950" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-178" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-120" y="1510" width="174" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-179" value="元数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JzZrAZqVVQvo1RFDfsGt-178">
+          <mxGeometry width="174" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-180" value="数据表，字段配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JzZrAZqVVQvo1RFDfsGt-178">
+          <mxGeometry x="9.75" y="41.85585585585586" width="154.5" height="29.117117117117118" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-182" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="1510" width="179.5" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-183" value="&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;权限系统&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JzZrAZqVVQvo1RFDfsGt-182">
+          <mxGeometry width="174" height="101.5531914893617" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-188" value="" style="group" vertex="1" connectable="0" parent="JzZrAZqVVQvo1RFDfsGt-182">
+          <mxGeometry x="5.5" y="5.946808510638298" width="174" height="101.5531914893617" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-190" value="验证权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JzZrAZqVVQvo1RFDfsGt-188">
+          <mxGeometry x="9.75" y="42.085106382978715" width="154.5" height="29.276595744680847" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-196" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="250.75" y="1410" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-199" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="326" y="1399" width="174" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-201" value="数据支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JzZrAZqVVQvo1RFDfsGt-199">
+          <mxGeometry x="9.75" y="41.85585585585586" width="154.5" height="29.117117117117118" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-207" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="54" y="1270" width="466" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-208" value="数据集管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76.75" y="1290" width="122.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-209" value="组件管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220.38" y="1290" width="122.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-210" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.38" y="1290" width="122.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-211" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1150" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-212" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="327" y="1130" width="174" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZrAZqVVQvo1RFDfsGt-213" value="提供配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JzZrAZqVVQvo1RFDfsGt-212">
+          <mxGeometry x="9.75" y="41.85585585585586" width="154.5" height="29.117117117117118" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
